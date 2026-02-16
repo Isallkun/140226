@@ -22,7 +22,7 @@ canvas.output_canvas {
     display: block;
     /* Show the webcam feed */
     position: absolute;
-    bottom: 20px;
+    top: 20px;
     right: 20px;
     width: 160px;
     height: 120px;
